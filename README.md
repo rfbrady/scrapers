@@ -1,3 +1,3 @@
 # scrapers #
 
-collection of web scrapers I've written, data is typically imported to CSV files
+collection of web scrapers I've written, data is typically exported to CSV files
